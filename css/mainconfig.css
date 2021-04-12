@@ -1,0 +1,125 @@
+.menu {
+  background-color:#FF7F11;
+  margin-top:2%;
+  margin-left:10%;
+  margin-right:10%;
+  border-radius:5px;
+
+}
+.nav-link {
+  color: #F5F2B8!important;
+  text-transform: uppercase;
+}
+body{
+  background-color:#1C1D21!important;
+
+}
+.nav-item{
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.nav-link{
+  color: white;
+}
+
+#carouselExampleSlidesOnly{
+  margin-top: 2%;
+}
+.carousel-item{
+  height:700px;
+  text-align: center;
+}
+.voiture{
+  display: inline-flex!important;
+  margin-top:2%;
+  margin-left: 18%;
+
+}
+.card{
+  margin-left: 1%;
+  background-color: #F5F2B8!important;
+}
+.card-title, .card-text {
+  text-align: center;
+
+}
+.presentation {
+  margin-top: 2%;
+}
+#porsche {
+  height: 185px;
+}
+h1{
+  text-align: center;
+  color:#F5F2B8;
+}
+.titre {
+  font-family: 'RocknRoll One', sans-serif;
+  margin-top: 2%;
+  text-transform:uppercase!important;
+  font-weight: bold;
+}
+.liste {
+  margin-top: 2%;
+  font-size: 1em;
+  width: 800px;
+  display: inline-flex;
+  margin-left: 40%;
+  text-transform:uppercase;
+  color: #FF7F11;
+
+
+}
+.liste-1 {
+  margin-right: 7%;
+}
+.marques:hover {
+  color: #F5F2B8!important;
+
+}
+#button{
+  color: #ffffff!important;
+  background-color: #FF7F11!important;
+  border:none;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-transform: uppercase;
+  margin-left: 30%;
+}
+a {
+  color: #FF7F11!important;
+}
+.menu2 {
+  width: 250px;
+  margin-left: 30%;
+  font-size: 1em;
+
+}
+.footer {
+  background-color:#FF7F11;
+  display: inline-flex;
+  width: 120%;
+}
+#menu-footer {
+  word-spacing: 2px!important;
+
+}
+ul {
+  list-style: none;
+}
+#info {
+  color: #F5F2B8;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+#adress {
+  color: #F5F2B8;
+  margin-left: 30%;
+}
+#liste-info {
+  margin-left: 20%;
+}
+#mail, #phone {
+  color: #F5F2B8!important;
+  text-decoration: none;
+}
